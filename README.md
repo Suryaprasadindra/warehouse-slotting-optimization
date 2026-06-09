@@ -202,8 +202,3 @@ This is exactly how real warehouses optimize storage.
 
 ---
 
-If you want, I can also create:
-
-- an **even shorter README**,  
-- a **more technical README**,  
-- or a **diagram‑based README**.
