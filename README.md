@@ -39,7 +39,7 @@ My project builds a system that **automatically finds the best location for ever
 ---
 
 ## ⭐ 3. Synthetic Data (Fake Warehouse I Created)
-Since I don’t have real FedEx data, I generated my own:
+Since I don’t have real data, I generated my own:
 
 - 300 SKUs  
 - 6 months of orders  
