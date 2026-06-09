@@ -1,10 +1,4 @@
-Got you, indra — here is a **short, simple, example‑based README version** written like **YOU are explaining the project** to someone.  
-Perfect for GitHub.  
-Clear, confident, and easy to understand.
 
-Copy–paste this into your `README.md`:
-
----
 
 # 📦 Warehouse Slotting Optimization (Explained in My Own Words)
 
