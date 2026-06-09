@@ -2,7 +2,7 @@
 
 # 📦 Warehouse Slotting Optimization (Explained in My Own Words)
 
-This project is my end‑to‑end simulation of how a real warehouse (like FedEx or Amazon) decides **where each SKU should be stored**.  
+This project is my end‑to‑end simulation of how a real warehouse decides **where each SKU should be stored**.  
 I built everything in **one Google Colab notebook**, using synthetic data to mimic a real warehouse.
 
 I explain the whole project below using **simple examples**, just like I would tell someone in person.
